@@ -1,4 +1,4 @@
-# IBIS (Infrastructure for Broadband Internet Studies)
+# IBIS
 
 IBIS is a flexible edge computing infrastructure framework designed to simplify the deployment and management of measurement applications on distributed edge devices. Built as a customization of [CHI@Edge](https://chameleoncloud.org/experiment/chiedge/), IBIS trades granular control for ease of use, making it accessible for researchers and organizations to deploy wide-scale data collection campaigns without extensive technical expertise.
 
